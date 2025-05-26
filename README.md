@@ -39,7 +39,7 @@ A forex and futures trade tracking app for beginner analysts. Built with React, 
 git clone https://github.com/your-username/PipVista.git
 cd PipVista
 
-#### 2. **Edit this part:**
+#### 2. 
 ```bash
 git clone https://github.com/AlynTetteh/PipVista.git
 
