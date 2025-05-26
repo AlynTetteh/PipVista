@@ -6,7 +6,7 @@ A forex and futures trade tracking app for beginner analysts. Built with React, 
 
 ---
 
-## 🚀 Features
+## Features
 
 - ✅ **Add & view trades** with key details: pair, entry, exit, strategy, notes
 - 🔍 **Filter by asset types** (forex/futures)
@@ -38,3 +38,14 @@ A forex and futures trade tracking app for beginner analysts. Built with React, 
 ```bash
 git clone https://github.com/your-username/PipVista.git
 cd PipVista
+
+#### 2. **Edit this part:**
+```bash
+git clone https://github.com/AlynTetteh/PipVista.git
+
+## 🙋‍♀️ Author
+
+**Alyn Tetteh**  
+📫 [GitHub](https://github.com/AlynTetteh)
+
+
