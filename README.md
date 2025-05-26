@@ -2,7 +2,7 @@
 A forex and futures trade tracking app for beginner analysts. Built with React, Spring Boot, and real-world market strategy features
 # 📊 PipVista
 
-**PipVista** is a beginner-friendly web application for tracking forex and futures trades. Designed for aspiring financial analysts and software engineers, the app helps users document, review, and analyze their trading strategies with ease.
+**PipVista** is a beginner-friendly web application for tracking forex and futures trades. Designed to help users document, review, and analyze their trading strategies with ease.
 
 ---
 
